@@ -191,3 +191,57 @@ nav li a {
     margin-top: 70px;
     text-align: center;
 }
+
+/* footer section */
+.footer {
+    margin-top: 130px;
+    background-color: #FFF8F3;
+    padding: 0px 230px;
+    padding-top: 130px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.connect {
+    margin-right: 115px;
+}
+
+.connect>h2 {
+    font-size: 35px;
+    font-weight: 700;
+    color: #181818;
+    margin-bottom: 0px;
+}
+
+.connect>p {
+    margin-top: 30px;
+    font-size: 16px;
+    color: #474747;
+}
+
+.message>h2 {
+    font-size: 35px;
+    font-weight: 700;
+    color: #181818;
+    margin-bottom: 30px;
+}
+
+.text-input {
+    margin-bottom: 25px;
+    padding: 18px 30px;
+    width: 450px;
+    height: 15px;
+}
+
+.text-area-input {
+    margin-bottom: 25px;
+    width: 510px;
+    height: 180px;
+}
+
+.submit {
+    margin-bottom: 130px;
+}
